@@ -5,7 +5,8 @@ http://starshare.live:8080/live/qwer/qwer/9371.m3u8
 http://starshare.live:8080/live/qwer/qwer/161.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee TV HD 2" tvg-logo="https://i.postimg.cc/8zDhj8RL/channels4-profile-4.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Zee TV HD 2 
 http://starshare.live:8080/live/qwer/qwer/220.m3u8
-#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee Cinema HD" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee Cinema HD http://starshare.live:8080/live/qwer/qwer/230.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee Cinema HD" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee Cinema HD 
+http://starshare.live:8080/live/qwer/qwer/230.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee Cinema HD 2" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee Cinema HD 2
 http://xtv.ooo:8080/live/414559860/69865599/206307.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Zee Classic" tvg-logo="" tvg-chno="2" group-title="FR TV CHANNEL",Zee Classic
@@ -24,3 +25,5 @@ http://xtv.ooo:8080/live/414559860/69865599/221250.m3u8
 http://xtv.ooo:8080/live/414559860/69865599/66162.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee  TV [FHD] 2 " tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee TV [FHD]
 http://xtv.ooo:8080/live/414559860/69865599/66163.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Duronto TV" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Duronto TV
+http://starshare.live:8080/live/qwer/qwer/433.m3u8
