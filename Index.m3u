@@ -1,3 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee TV [FHD]" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee TV [FHD] 
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee TV [FHD]" tvg-logo="https://i.postimg.cc/8zDhj8RL/channels4-profile-4.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Zee TV [FHD] 
 http://starshare.live:8080/live/qwer/qwer/9371.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee TV HD" tvg-logo="https://i.postimg.cc/8zDhj8RL/channels4-profile-4.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Zee TV HD
+http://starshare.live:8080/live/qwer/qwer/161.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee TV HD 2" tvg-logo="https://i.postimg.cc/8zDhj8RL/channels4-profile-4.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Zee TV HD 2 
+http://starshare.live:8080/live/qwer/qwer/220.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee Cinema HD" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee Cinema HD http://starshare.live:8080/live/qwer/qwer/230.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee Cinema HD 2" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee Cinema HD 2
+http://xtv.ooo:8080/live/414559860/69865599/206307.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Zee Classic" tvg-logo="" tvg-chno="2" group-title="FR TV CHANNEL",Zee Classic
+http://xtv.ooo:8080/live/414559860/69865599/66201.m3u8
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Zee Classic 2" tvg-logo="" tvg-chno="3" group-title="FR TV CHANNEL",Zee Classic 2
+http://starshare.live:8080/live/qwer/qwer/7064.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee Action" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee Action
+http://starshare.live:8080/live/qwer/qwer/967.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee Action 2" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee Action 2
+http://xtv.ooo:8080/live/414559860/69865599/66191.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee TV (4k)" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee TV (4k)
+http://xtv.ooo:8080/live/414559860/69865599/109950.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee TV HD 3" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee TV HD 3
+http://xtv.ooo:8080/live/414559860/69865599/221250.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee TV HD 4 " tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee TV HD 4
+http://xtv.ooo:8080/live/414559860/69865599/66162.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zee  TV [FHD] 2 " tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Zee TV [FHD]
+http://xtv.ooo:8080/live/414559860/69865599/66163.m3u8
