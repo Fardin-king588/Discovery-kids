@@ -27,3 +27,5 @@ http://xtv.ooo:8080/live/414559860/69865599/66162.m3u8
 http://xtv.ooo:8080/live/414559860/69865599/66163.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Duronto TV" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Duronto TV
 http://starshare.live:8080/live/qwer/qwer/433.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Hungama Kids" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Hungama Kids
+http://starshare.live:8080/live/qwer/qwer/18456.m3u8
